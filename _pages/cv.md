@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* June 2017: PhD Solar Physics, Aberystwyth University, UK
+* July 2012: BSc (Hons) Astrophysics with Chemistry, Keele University, UK
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient: Python, IDL.
+* Experienced: Git, MPI, Docker, Slurm, JupyterHub, Java, Bash, LaTeX.
+* Familiar: C++, FORTRAN, Kubernetes, OpenShift.
+
+Research supervision and leadership experience
+======
+* 2021–present Work Package Co-Leader, Horizon 2020 SERPENTINE Project
+* 2021–present Co-supervisor of Space Physics PhD student Andreas Wagner, University of Helsinki, Finland
+* May–July 2021 Co-supervisor of Space Physics Summer Research Assistant, University of Helsinki, Finland
+* 2019–present Co-supervisor of Master’s student Eoin Doyle, University of Helsinki, Finland
+
+Organisation
+======
+* November 2021: Main Organiser, Finnish Physical Society’s Virtual Screening and Panel Discussion of Picture a Scientist.
+* December 2019: Primary-Convener, American Geophysical Union Fall Meeting 2019, San Francisco, CA, USA.
+
+Memberships and positions of trust
+======
+* 2022-present: Vice Chair, Finnish Physical Society.
+* 2020-present: Board Member, Finnish Physical Society.
+* 2020-2021: Secretary of the Finnish Physical Society.
+* 2018-present: Member, American Geophysical Union, USA.
+* Reviewer: Frontiers in Astronomy and Space Sciences, The Innovation.
 
 Publications
 ======
@@ -42,7 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +56,5 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
+
